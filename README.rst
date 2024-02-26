@@ -16,7 +16,7 @@ The mod is being developed in Minecraft java 1.20.4, and it will probably be ver
 to create some simple items that brings some basic effects to the player. I'm not creating new effects, as this is
 a test for me, I'll use the ones that already exist in-game.
 
-The obtaining method is not decided yet, depending of the amount of time I spend making the basic items, I'll make a
+The obtaining method is not decided yet, depending of the amount of time I spend making the basic items, I'll make
 bigger or smaller afford on the other sections of the mod.
 
 A list of a few ideas about possible items to develop:
@@ -35,4 +35,4 @@ would be interesting to test it and create some new crafts.
     End and killed the Ender Dragon, I think that players could be able to build some end portals in the overworld (and
     why not in the nether?), although the price of crafting a End Portal block should be very expensive, I think it would
     be beautiful. As end portals works anywhere in the overworld if you put them correctly, I think the best way to
-    develop this idea should be making the End Portal block craftable
+    develop this idea should be making the End Portal block craftable.
