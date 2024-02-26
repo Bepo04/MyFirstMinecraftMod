@@ -24,10 +24,12 @@ A list of a few ideas about possible items to develop:
 you won't need a beacon to avoid dying of hunger.
 
 Ideas that might never come, but that they seem interesting:
-    · Creative inventory tab (For now, each item will be located in the tab that makes the most sense in each case)
+    · Creative inventory tab (For now, each item will be located in the tab that makes the most sense in each case).
+
     · Dropping from monsters: I've always loved the sensation of getting something with a very little drop rate in
     videogames, the minecraft trident is a very good example. If I've time I'd love to add this characteristic to some
     items.
+
     · Craftable items: as I've said, this is a project with the principal objective of improving my knowledge of developing,
     and getting a first contact of Minecraft modding, but as crafting is probably the principal mechanic in the game, that
     would be interesting to test it and create some new crafts.
