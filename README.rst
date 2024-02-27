@@ -4,7 +4,7 @@ My First Minecraft Mod
 
 Introduction
 ============
-Welcome to my first Minecraft mod repository!
+Welcome to my first Minecraft mod's repository!
 
 As the name says, here I'll be working in a experimental and testing mod to practice and get started in 
 Minecraft modding. Actually, I'm not getting started only in Minecraft modding, but I've started learning
@@ -12,12 +12,12 @@ programming and developing this year, so take care of me ;)
 
 About the mod
 =============
-The mod is being developed in Minecraft java 1.20.4, and it will probably be very small. For now, the idea is
+The mod is being developed in Minecraft java 1.20.4 with Forge, and it will probably be very small. For now, the idea is
 to create some simple items that brings some basic effects to the player. I'm not creating new effects, as this is
-a test for me, I'll use the ones that already exist in-game.
+a test for me, I'll be focusing specially on the basics of creating a mod in Minecraft and getting familiar with Forge.
 
 The obtaining method is not decided yet, depending of the amount of time I spend making the basic items, I'll make
-bigger or smaller afford on the other sections of the mod.
+bigger or smaller effort on the other sections of the mod.
 
 A list of a few ideas about possible items to develop:
 · Pants with saturation effect: in order to use them in AFK farms where player has to kill enemies or mine blocks, so
